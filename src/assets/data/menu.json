@@ -1,0 +1,12 @@
+[
+  {
+  "nombre": "Alert",
+  "ruta": "/alert",
+  "icono": "american-football"
+  },
+  {
+    "nombre": "Action-sheet",
+    "ruta": "/action-sheet",
+    "icono": "logo-apple-appstore"
+  }
+]
